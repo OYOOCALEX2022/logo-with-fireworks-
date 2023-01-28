@@ -124,3 +124,12 @@ h2  {
     
   font-family:courier;
 }
+
+.write up {
+    
+    background-color:#191970;
+    color:#FFFFF;
+    padding:80px;
+    font-family:courier;
+    text-align:center;
+}
