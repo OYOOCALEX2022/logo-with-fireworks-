@@ -69,10 +69,10 @@ explotion {
                 height:40px;
                 background-color:#fcf52;
                 animation:explosive 2s ease-in-out infinite;
-}
+     }
 
    @keyframes explosion {
- 0% {
+     0% 
      top:100%;
 }
   33%, 100% {
@@ -114,12 +114,13 @@ explotion {
 
 h1 {
 
-   font-size:37px;
+   font-size:36px;
 
     font-family:decorative;
 }
 
 
 h2  {
+    
   font-family:courier;
 }
