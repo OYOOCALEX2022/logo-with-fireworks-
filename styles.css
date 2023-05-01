@@ -1,14 +1,13 @@
 body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color:maroon;
+  text-align: center;
+ }
 
-    margin:0;
-    padding: 0;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    background-color:blue;
-    text-align: center;
-
-  }
 
 fireworks {
         position: absolute;
@@ -128,9 +127,9 @@ h2  {
   text-align:center ;
 }
 
-.write up {
+.writeup {
     
-    background-color:#191970;
+    background-color:white;
     color: FFFFF;
     padding:80px;
     font-family:courier;
@@ -138,7 +137,7 @@ h2  {
 }
 
 .image {
-    
+    align-content: center;
     width:115px;
     height:115px;
 }
